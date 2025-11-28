@@ -1,3 +1,5 @@
-Install [Hack Nerd Font](https://www.nerdfonts.com/)
+## Install
 
-Test
+- Install [Hack Nerd Font](https://www.nerdfonts.com/)
+- Install lua, libluadev, luarock
+- Install [ripgreg](https://github.com/BurntSushi/ripgrep)
