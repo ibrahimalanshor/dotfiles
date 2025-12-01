@@ -20,5 +20,8 @@ require("config.keymaps")
 -- config
 require("config.lazy")
 
+-- lsp
+require("config.lsp")
+
 -- theme
 vim.cmd.colorscheme "catppuccin"
