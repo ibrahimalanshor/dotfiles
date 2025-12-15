@@ -1,3 +1,4 @@
 ## Todo
 
-- Install Other Terminal
+- Multi select
+- Tab shortuct
