@@ -32,6 +32,9 @@ vim.lsp.enable('ts_ls')
 vim.lsp.enable('astro', coq.lsp_ensure_capabilities())
 vim.lsp.enable('astro')
 
+vim.lsp.enable('phpactor', coq.lsp_ensure_capabilities())
+vim.lsp.enable('phpactor')
+
 -- vim.lsp.config('vtsls', coq.lsp_ensure_capabilities({
 --   filetypes = { 'typescript', 'javascript', 'vue' }
 -- }))

@@ -12,4 +12,5 @@
 :MasonInstall vue-language-server
 :MasonInstall typesciprt-language-server
 :MasonInstall astro-language-server
+:MasonInstall phpactor 
 ```
